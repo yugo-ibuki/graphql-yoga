@@ -20,7 +20,7 @@
   "dependencies": {
     "@graphql-tools/schema": "^9.0.8",
     "graphql": "^16.6.0",
-    "graphql-yoga": "^2.13.13"
+    "graphql-yoga": "3.0.0-next.10"
   },
   "volta": {
     "node": "16.18.0"
